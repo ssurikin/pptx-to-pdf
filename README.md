@@ -61,3 +61,7 @@ pip install -r requirements.txt
 - `pptx_to_pdf.py` — основная логика конвертации
 - `requirements.txt` — зависимости
 - `output/` — сюда сохраняются готовые PDF
+
+## Лицензия
+
+[MIT](LICENSE)
